@@ -1,6 +1,5 @@
 /****** Coin */
 .ding-sprite {
-    background: transparent url(https://raw.github.com/folletto/Ding/master/coin.gif) no-repeat center center;
     display: block;
     width: 60px;
     height: 60px;
